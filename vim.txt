@@ -1,0 +1,10 @@
+comandos de vim 
+moverse por vim 'hjkl' 'w' 'e' 'b'
+Insertar Texto 'i' 'a' 'A' 'I'
+Borrar texto 'd' 'D' 'x' 'X'
+Borrar + insertar 'c' 'C' 's' 'S'
+Deshacer y rehacer 'u' 'c-u'
+guardar archivos ':w'
+abrir archivos ':e'
+
+hello world
